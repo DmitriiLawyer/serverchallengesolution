@@ -1,4 +1,13 @@
-# serverchallengesolution
+### serverchallengesolution
+КОМАНДА Ezee:
+Александр Сергеев
+Алексей Шкиль
+Евгений Васильев
+Дмитрий Меренков
+Никита Гельтман
+
+
+
 
 Pre-selection solving task
 
